@@ -12,7 +12,7 @@ This was a project excersise on: https://roadmap.sh/projects/task-tracker
 - List all tasks
 - List tasks filtered by status
 
-##Commands
+## Commands
 
 add [task text]                                 - adds a new task
 upd [task ID]['desc'/'status'][new text/status] - updates a task
